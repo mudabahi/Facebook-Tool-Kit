@@ -20,7 +20,7 @@ Graph API Facebook.</br>
 
 <p align="center">
 Made with ❤️ by <a href="mudabahi">Mudasir </a>
-CTO at <a href="hhtps://www.voyeen.com">Voyeen </a>
+CTO at <a href="https://www.voyeen.com">Voyeen </a>
 </p>
 
 <p align="center">
