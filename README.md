@@ -19,7 +19,8 @@ Graph API Facebook.</br>
 </p>
 
 <p align="center">
-Made with ❤️ by <a href="https://github.com/warifp">Wahyu Arif Purnomo</a>
+Made with ❤️ by <a href="mudabahi">Mudasir </a>
+CTO at Voyeen <a href="hhtps://www.voyeen.com">
 </p>
 
 <p align="center">
